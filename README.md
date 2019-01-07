@@ -31,7 +31,7 @@ What we got.....
 
 ...I have my flower classifer that we will use as the basis of fruit classifcation
 
-...I have my [Self Driving Car Nano Degreee Projects](http://johnreilly.tech/)  (I am in Term 1)
+...I have my [Self Driving Car Nano Degreee Projects](http://johnreilly.tech/)  (I am in Term )
 
 ## AND......
 I have [hundreds of pictures](https://github.com/john-reilly/RoboFarm/tree/master/Sample%20Apples) and some movies of Apples that I took myself and I will share open source.
@@ -57,6 +57,8 @@ I also have some high and low resolution video.
 * Want to join?
 
 You are welcome , just remember everything that goes into GitHub is open source.
+
+You can contact me on [linkedIn here ](https://www.linkedin.com/in/john-reilly-ireland/)
 
 
 
